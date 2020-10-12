@@ -12,7 +12,7 @@ Run `main_speech_data.m`.
 
 ## Citation
 It is developed for research purposes only and not for commercialization. If you use it, please refer to our work.
-
+```
 @article{doi:10.1002/mrm.27373,
 author = {Lim, Yongwan and Lingala, Sajan Goud and Narayanan, Shrikanth S. and Nayak, Krishna S.},
 title = {Dynamic off-resonance correction for spiral real-time MRI of speech},
@@ -23,7 +23,7 @@ pages = {234-246},
 doi = {10.1002/mrm.27373},
 year = {2019}
 }
-
+```
 ## Contact
 Please contact yongwanl@usc.edu If you have any questions.
 
