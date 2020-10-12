@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/SPIRiT/!svn/ver/7/trunk/@NUFFT
+END
+mtimes.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/SPIRiT/!svn/ver/6/trunk/@NUFFT/mtimes.m
+END
+transpose.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/SPIRiT/!svn/ver/6/trunk/@NUFFT/transpose.m
+END
+ctranspose.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/SPIRiT/!svn/ver/6/trunk/@NUFFT/ctranspose.m
+END
+times.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/SPIRiT/!svn/ver/6/trunk/@NUFFT/times.m
+END
+NUFFT.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/SPIRiT/!svn/ver/7/trunk/@NUFFT/NUFFT.m
+END
