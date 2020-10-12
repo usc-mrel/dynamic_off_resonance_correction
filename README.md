@@ -11,7 +11,7 @@ Please modify `reconParam.m` properly to your data.
 Run `main_speech_data.m`. 
 
 ## Citation
-It is developed for research purposes only and not for commercialization. If you use it, please refer to our work.
+If you use it, please refer to our work.
 ```
 @article{doi:10.1002/mrm.27373,
 author = {Lim, Yongwan and Lingala, Sajan Goud and Narayanan, Shrikanth S. and Nayak, Krishna S.},
