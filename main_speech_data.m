@@ -2,7 +2,7 @@
 % Implementation of dynamic off-resonance correction for spiral dynamic MRI 
 %
 % Reference: Y Lim, SG Lingala, S Narayanan, KS Nayak, Dynamic off-resonance
-% correction for spiral real-time MRI of speech, Magn Reson Med, 2018;81:234?246. 
+% correction for spiral real-time MRI of speech, Magn Reson Med, 2018;81:234-246. 
 % https://doi.org/10.1002/mrm.27373
 %
 % (c) Yongwan Lim (yongwanl@usc.edu) University of Southern California, 2018.
