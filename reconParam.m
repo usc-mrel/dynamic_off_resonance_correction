@@ -32,9 +32,8 @@ param.Ntstep = 4;
 param.fps = 1/(param.Ntstep*param.TR); % frame rate (for video generation)
 
 % reconstruct T sec time series of image (for example, here T=5)
-% # of time frames (synchronize with coil images)
-param.Nt =  round(4.8*param.fps); 
-% param.Nt = floor(param.Ntviews/param.NarmsFull); 
+% param.Nt =  round(5*param.fps); # of time frames (synchronize with coil images)
+param.Nt = floor(param.Ntviews/param.NarmsFull); 
 
 % check if Nt is out of bound or not
 nt_max = floor(max((param.Ntviews-param.NarmsFull)/param.Ntstep + 1));
