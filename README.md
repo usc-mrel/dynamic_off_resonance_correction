@@ -1,6 +1,7 @@
 # Dynamic_off_resonance_correction
 
 This package contains example code and data for the following paper: 
+
 *Yongwan Lim, Sajan Goud Lingala, Shrikanth S. Narayanan, Krishna S. Nayak, Dynamic off-resonance correction for spiral real-time MRI of speech, Mag Reson Med, 2019;81(1):234-246.*
 
 Code is provided in Maltab programming language.
